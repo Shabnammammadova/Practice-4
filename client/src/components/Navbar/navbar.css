@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+   
+}
+
+.link{
+    margin-right: 50px;
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    color:#D73E4D
+}
+.img1{
+    margin-left: 400px;
+}
+.appbar{
+    background-color:rgba(6, 5, 5, 0.983)
+}

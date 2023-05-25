@@ -1,0 +1,27 @@
+.heropage{
+background-image: url("https://preview.colorlib.com/theme/bizpro/images/home/slide-1.jpg.webp");
+height: 100vh;
+background-repeat: no-repeat;
+margin-top: 60px;
+padding-top: 15%;
+
+}
+.hero{
+    color: white;
+    text-align: center;
+
+
+
+}
+.button{
+margin-left: 840px;
+border: 1px solid #D83D4D;
+width: 150px;
+height: 40px;
+background-color: rgba(117, 117, 117, 0);
+color: white;
+margin-top: 15px;
+}
+.button:hover {
+background-color: #D83D4D;
+}
